@@ -4,13 +4,12 @@ Dependency|GitHub|ProPlugin|Available Version to Fork
 nativescript-dom|[Link](https://github.com/NathanaelA/nativescript-dom)|[Link](https://www.npmjs.com/package/nativescript-dom)|2.0.5|
 
 # Documentation
-<details>
-  <summary>Docs</summary>
   
 ## Installation 
 ```bash
 npm install ConcordanceHealth/nativescript-dom#branch
 ```
+**Make sure you have your GitHub SSH setup**  [SSH Setup Link](https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account)
 
 ## Usage
 To use the  module you just `require()` it:
@@ -108,7 +107,6 @@ add a reference in your `references.d.ts` file. Below is the snippet you can pas
 ```xml
 /// <reference path="./node_modules/nativescript-dom/dom-global.d.ts" />
 ```
-</details>
 
 
 # Original Read Me 08/27/2019
