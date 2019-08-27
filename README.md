@@ -1,9 +1,9 @@
-## Details about repo forked from
+# Details about repo forked from
 Dependency|GitHub|ProPlugin|Available Version to Fork
 --- | --- | --- | --- 
 nativescript-dom|[Link](https://github.com/NathanaelA/nativescript-dom)|[Link](https://www.npmjs.com/package/nativescript-dom)|2.0.5|
 
-## Documentation
+# Documentation
 <details>
   <summary>Docs</summary>
   
@@ -111,7 +111,7 @@ add a reference in your `references.d.ts` file. Below is the snippet you can pas
 </details>
 
 
-## Original Read Me 08/27/2019
+# Original Read Me 08/27/2019
 <details>
   <summary>OG Read Me</summary>
 <a href="https://proplugins.org"><img src="https://proplugins.org/logos/unmaintained.svg" height="30px" width="100%"></a>
