@@ -125,8 +125,4 @@ If you are interested in getting the latest, known working, and enhanced plugins
 
 Please feel free to continue to use this version of the plugin, it is now 100% being maintained by **YOU** the community, and as such
 I will gladly continue to support the community version by accepting any/all PR's for this plugin and publish it.  I will attempt to verify the PR doesn't have any backdoors; but I won't be doing any testing, so if it is broken it is up to you to send a PR!
-
-
-## Documentation
-The [documentation](src/README.md) for the plugin is located in the [src folder](src).
 </details>
